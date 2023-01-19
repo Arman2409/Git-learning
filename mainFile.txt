@@ -1,2 +1,2 @@
 merge 1 changes
-Merge 2 branch changes
+Merge 2 branch changes merge-2
